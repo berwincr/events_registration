@@ -1,3 +1,3 @@
 # Campus Event Management System
 Developed a responsive and user-friendly online campus event management system to streamline participant sign-ups and manage event data efficiently using html, css, javascript.
-Live demo: [Click here](https://berwincr.github.io/events_registration/)
+Live demo: [Click here](https://berwincr.github.io/Campus-Event-Management-System/)
